@@ -11,6 +11,9 @@ import org.springframework.stereotype.Component;
 @Data
 public class User {
 
+    /*
+    用户id
+     */
     private Integer id;
 
     private String name;
